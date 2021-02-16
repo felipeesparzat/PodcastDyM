@@ -17,9 +17,9 @@
       La historia no cambia y servirá de base para el análisis de cada uno de los temas esperando dejar de lado la apología desde un punto de vista mormon pero evitando el sesgo los mejor posible.
     </itunes:summary>
     <image>
-      <url>https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg</url>
+      <url>https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg</url>
       <title>Dogma y Moral</title>
-      <link>https://felipeesparzat.github.io/PodcastMyD/</link>
+      <link>https://felipeesparzat.github.io/PodcastDyM/</link>
     </image>
     <itunes:owner>
       <itunes:name>Felipe Esparza</itunes:name>
@@ -28,23 +28,23 @@
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>Felipe Esparza 2021</copyright>
     <description>Conversaciones sobre la moral de diferentes dogmas.</description>
-    <googleplay:image href="https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg" />
+    <googleplay:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
     <language>es-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <link>https://felipeesparzat.github.io/PodcastMyD/feed.xml</link>
-    <itunes:image href="https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg" />
+    <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
     
     <item>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
       <title>Episodio 1: Journal of Discourses</title>
       <pubDate>Mon, 15 Feb 2021 13:00:00 GMT</pubDate>
-      <enclosure url="https://felipeesparzat.github.io/PodcastMyD/audio/001.mp3" type="audio/mpeg" length="34299352" />
+      <enclosure url="https://felipeesparzat.github.io/PodcastDyM/audio/001.mp3" type="audio/mpeg" length="34299352" />
       <itunes:duration>24:04</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://felipeesparzat.github.io/PodcastMyD/img/jod1.jpg"/>
+      <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/jod1.jpg"/>
       <description>
       El Diario de Discursos consta de discursos, lecciones, y ensayos en su mayor parte de los primeros líderes de la Iglesia Mormona. En estos episodios pretendo presentar en español todos estos discursos, lamentablemente con mis comentarios a lo largo de la presentación, así que esto no será un mero audio libro.
       </description>
