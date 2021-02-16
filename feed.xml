@@ -9,9 +9,9 @@
     <author>Felipe Esparza</author>
     <itunes:author>Felipe Esparza</itunes:author>
     <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
-    <itunes:category text="Religion & Spirituality" />
+    <itunes:category text="Religion &amp Spirituality" />
     <itunes:subtitle>
-      La diferencia de lo Dogmático y lo Moralmente correcto se puede interpretar deforma muy subjetiva.
+      La diferencia de lo Dogmático y lo Moralmente correcto se puede interpretar de forma muy subjetiva.
     </itunes:subtitle>
     <itunes:summary>
       La historia no cambia y servirá de base para el análisis de cada uno de los temas esperando dejar de lado la apología desde un punto de vista mormon pero evitando el sesgo los mejor posible.
@@ -25,12 +25,12 @@
       <itunes:name>Felipe Esparza</itunes:name>
       <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <itunes:keywords>moral, dogma, religion, mormon, cultura, historia</itunes:keywords>
     <copyright>Felipe Esparza 2021</copyright>
-    <description>Conversaciones sobre la moral de diferentes dogmas.</description>
+    <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas.</description>
     <googleplay:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
     <language>es-us</language>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <link>https://felipeesparzat.github.io/PodcastDyM/feed.xml</link>
     <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
@@ -39,11 +39,11 @@
       <itunes:episode>1</itunes:episode>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
-      <title>Episodio 1: Journal of Discourses</title>
+      <title>Journal of Discourses, en Español</title>
       <pubDate>Mon, 15 Feb 2021 13:00:00 GMT</pubDate>
       <enclosure url="https://felipeesparzat.github.io/PodcastDyM/audio/001.mp3" type="audio/mpeg" length="34299352" />
       <itunes:duration>24:04</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">001</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/jod1.jpg"/>
       <description>
@@ -61,11 +61,11 @@
       <itunes:episode>2</itunes:episode>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
-      <title>Episodio 2: Journal of Discourses. Salvacion por Brigham Young</title>
+      <title>Journal of Discourses. Salvacion por Brigham Young</title>
       <pubDate>Tue, 16 Feb 2021 13:00:00 GMT</pubDate>
       <enclosure url="https://felipeesparzat.github.io/PodcastDyM/audio/002.mp3" type="audio/mpeg" length="34299352" />
       <itunes:duration>24:04</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">002</guid>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/jod1.jpg"/>
       <description>
