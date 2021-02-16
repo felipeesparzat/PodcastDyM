@@ -13,7 +13,7 @@
     <itunes:subtitle>La diferencia de lo Dogmático y lo Moralmente correcto se puede interpretar deforma muy subjetiva.</itunes:subtitle>
     <itunes:summary>La historia no cambia y servirá de base para el análisis de cada uno de los temas esperando dejar de lado la apología desde un punto de vista mormon pero evitando el sesgo los mejor posible.</itunes:summary>
     <image>
-      <url>https://raw.githubusercontent.com/felipeesparzat/PodcastMyD/Master/img/sunstone.jpg</url>
+      <url>https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg</url>
       <title>Dogma y Moral</title>
       <link>https://felipeesparzat.github.io/podcastmyd/</link>
     </image>
@@ -24,12 +24,12 @@
     <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
     <copyright>Felipe Esparza 2021</copyright>
     <description>Conversaciones sobre la moral de diferentes dogmas.</description>
-    <googleplay:image href="https://raw.githubusercontent.com/felipeesparzat/PodcastMyD/Master/img/sunstone.jpg" />
+    <googleplay:image href="https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg" />
     <language>es-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <link>https://felipeesparzat.github.io/podcastmyd/feed.xml</link>
-    <itunes:image href="https://raw.githubusercontent.com/felipeesparzat/PodcastMyD/Master/img/sunstone.jpg" />
+    <itunes:image href="https://felipeesparzat.github.io/PodcastMyD/img/sunstone.jpg" />
     
     <item>
       <author>Felipe Esparza</author>
