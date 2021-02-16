@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Dogma y Moral</title>
+    <googleplay:author>Felipe Esparza</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Concepcion, Chile</rawvoice:location>
+    <rawvoice:frequency>Weekly</rawvoice:frequency>
+    <author>Felipe Esparza</author>
+    <itunes:author>Felipe Esparza</itunes:author>
+    <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://felipeesparzat.github.io/dogma-y-moral/img/sunstone.jpg</url>
+      <title>Dogma y Moral</title>
+      <link>https://felipeesparzat.github.io/dogma-y-moral/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Felipe Esparza</itunes:name>
+      <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
+    <copyright>Felipe Esparza 2021</copyright>
+    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
+    <googleplay:image href="https://felipeesparzat.github.io/dogma-y-moral/img/sunstone.jpg" />
+    <language>es-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://felipeesparzat.github.io/dogma-y-moral/feed.xml</link>
+    <itunes:image href="https://felipeesparza.github.io/dogma-y-moral/img/sunstone.jpg" />
+    <item>
+      <author>Felipe Esparza</author>
+      <itunes:author>Felipe Esparza</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://felipeesparzat.github.io/dogma-y-moral/audio/001.mp3" type="audio/mp3" length="34299352" />
+      <itunes:duration>24:04</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Norbert Kozsir - @norbertkozsir
+
+https://twitter.com/norbertkozsir
+
+https://github.com/norbert515
+
+
+Rody Davis - @rodydavis
+
+https://twitter.com/rodydavis
+
+https://github.com/rodydavis
+
+https://youtube.com/rodydavis
+
+https://rodydavis.com
+
+Our podcast player: 
+
+https://rodydavis.github.io/podcast-player/
+        </description>
+    </item>
+  </channel>
+</rss>
