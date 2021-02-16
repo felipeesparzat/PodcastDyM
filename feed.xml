@@ -29,7 +29,7 @@
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <link>https://felipeesparzat.github.io/podcastmyd/feed.xml</link>
-    <itunes:image href="https://felipeesparza.github.io/podcastmyd/img/sunstone.jpg" />
+    <itunes:image href="https://felipeesparzat.github.io/podcastmyd/img/sunstone.jpg" />
     <item>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
@@ -39,6 +39,7 @@
       <itunes:duration>24:04</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://felipeesparzat.github.io/podcastmyd/img/jod1.jpg"/>
       <description>
       El Diario de Discursos consta de discursos, lecciones, y ensayos en su mayor parte de los primeros líderes de la Iglesia Mormona. En estos episodios pretendo presentar en español todos estos discursos, lamentablemente con mis comentarios a lo largo de la presentación, así que esto no será un mero audio libro.
       </description>
