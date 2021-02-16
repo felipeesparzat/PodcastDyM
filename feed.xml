@@ -34,8 +34,9 @@
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <link>https://felipeesparzat.github.io/PodcastDyM/feed.xml</link>
     <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
-EPISODIO 1
+
     <item>
+      <itunes:episode>1</itunes:episode>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
       <title>Episodio 1: Journal of Discourses</title>
@@ -55,8 +56,9 @@ EPISODIO 1
         El Diario de Discursos consta de discursos, lecciones, y ensayos en su mayor parte de los primeros líderes de la Iglesia Mormona. En estos episodios pretendo presentar en español todos estos discursos, lamentablemente con mis comentarios a lo largo de la presentación, así que esto no será un mero audio libro.
       </itunes:summary>
     </item>
-EPISODIO 2
+
     <item>
+      <itunes:episode>2</itunes:episode>
       <author>Felipe Esparza</author>
       <itunes:author>Felipe Esparza</itunes:author>
       <title>Episodio 2: Journal of Discourses. Salvacion por Brigham Young</title>
