@@ -3,7 +3,7 @@
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Dogma y Moral</title>
+    <title>Dogmas y Moral</title>
     <author>Felipe Esparza</author>
     <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <rawvoice:rating>TV-G</rawvoice:rating>
@@ -14,7 +14,7 @@
     <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas principalmente religiosos.</description>
     <image>
       <url>https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg</url>
-      <title>Dogma y Moral</title>
+      <title>Dogmas y Moral</title>
       <link>https://felipeesparzat.github.io/PodcastDyM/</link>
     </image>
     
