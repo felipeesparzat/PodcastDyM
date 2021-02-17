@@ -11,7 +11,7 @@
     <rawvoice:frequency>Weekly</rawvoice:frequency>
     <link>https://felipeesparzat.github.io/PodcastDyM/feed.xml</link>
     <language>es-us</language>
-    <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas.</description>
+    <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas principalmente religiosos.</description>
     <image>
       <url>https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg</url>
       <title>Dogma y Moral</title>
@@ -33,7 +33,7 @@ ITUNES
     <itunes:summary>
       La diferencia de lo Dogmático y lo Moralmente correcto se puede interpretar de forma muy subjetiva. La historia no cambia y servirá de base para el análisis de cada uno de los temas esperando dejar de lado la apología desde un punto de vista mormon pero evitando el sesgo los mejor posible.
     </itunes:summary>
-    
+
     <itunes:owner>
       <itunes:name>Felipe Esparza</itunes:name>
       <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
