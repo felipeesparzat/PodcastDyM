@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Dogma y Moral</title>
-    <googleplay:author>Felipe Esparza</googleplay:author>
+    <author>Felipe Esparza</author>
+    <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Concepcion, Chile</rawvoice:location>
     <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Felipe Esparza</author>
+    <link>https://felipeesparzat.github.io/PodcastDyM/feed.xml</link>
+    <language>es-us</language>
+    <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas.</description>
+    
+    <googleplay:author>Felipe Esparza</googleplay:author>
+    <googleplay:owner>felipe.esparza.t@gmail.com</googleplay:owner>
+    <googleplay:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
+
     <itunes:author>Felipe Esparza</itunes:author>
     <itunes:email>felipe.esparza.t@gmail.com</itunes:email>
     <itunes:category text="Religion & Spirituality" />
@@ -27,12 +37,8 @@
     </itunes:owner>
     <itunes:keywords>moral, dogma, religion, mormon, cultura, historia</itunes:keywords>
     <copyright>Felipe Esparza 2021</copyright>
-    <description>Podcast de analisis y comentarios sobre la moral de diferentes dogmas.</description>
-    <googleplay:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
-    <language>es-us</language>
-    <itunes:explicit>false</itunes:explicit>
-    <pubDate>Mon, 15 Feb 2021 13:00:00 PDT</pubDate>
-    <link>https://felipeesparzat.github.io/PodcastDyM/feed.xml</link>
+    
+    <itunes:explicit>false</itunes:explicit>    
     <itunes:image href="https://felipeesparzat.github.io/PodcastDyM/img/sunstone.jpg" />
 
     <item>
